@@ -1,0 +1,41 @@
+Locations:
+  Spawn: null
+
+Misc:
+  HideStream: true
+  Invisibility: true
+  DefaultSpeed: 0.1
+  DefaultHealth: 1
+  HideTab: true
+  JoinTitle: true
+
+Disabled:
+  Move: true
+  Chat: true
+  Commands: true
+  BreakBlock: true
+  PlaceBlock: true
+  ItemDrop: true
+  Damage: true
+  Invsentory: true
+  Explode: true
+  Leaves: true
+  Food: true
+  Fire: true
+  Wheat: true
+  PhysicsFire: true
+  Pickup: true
+  HideTab: true
+
+Messages:
+  commandOnlyForPlayers: '&cКоманду можно использовать только от имени игрока.'
+  noPermissions: '&7[&6&lСЕРВЕР&7] &fУ вас недостаточно прав.'
+  spawnTeleport: '&7[&6&lСЕРВЕР&7] &fВы были телепортированы на спавн.'
+  setSpawn: '&7[&6&lСЕРВЕР&7] &fВы установили точку спавна.'
+
+JoinTitle:
+  Title: 'Верних тайтл'
+  SubTitle: 'Нижний тайтл'
+
+CommandWhiteList:
+  - menu

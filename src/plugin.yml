@@ -1,0 +1,10 @@
+name: 'AkyloffLobby'
+main: 'ru.Akyloff.Lobby.JavaMain'
+version: '1.0'
+author: 'darkakyloff'
+depend: [ProtocolLib]
+commands:
+  spawn:
+    usage: /spawn
+  setspawn:
+    usage: /setspawn
